@@ -22,3 +22,8 @@
 **Arquivo:** `dia_04_sharingan_logico.ipynb`  
 **XP Ganhado:** 80 XP
 
+### 🟩 Dia 05 — Equipe 7
+**Jutsus Aprendidos:** Funções (`def`)  
+**Tema Naruto:** Formação da Equipe 7  
+**Arquivo:** `dia_05_funcoes_equipe_7.ipynb`  
+**XP Ganhado:** 90 XP
